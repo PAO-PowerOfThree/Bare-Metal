@@ -1,0 +1,6 @@
+/media/omar/Mero/PAO/PAO_POWEROFTHREE_CAN/CMakeFiles/PAO_POWEROFTHREE_CAN.dir
+/media/omar/Mero/PAO/PAO_POWEROFTHREE_CAN/CMakeFiles/edit_cache.dir
+/media/omar/Mero/PAO/PAO_POWEROFTHREE_CAN/CMakeFiles/rebuild_cache.dir
+/media/omar/Mero/PAO/PAO_POWEROFTHREE_CAN/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir
+/media/omar/Mero/PAO/PAO_POWEROFTHREE_CAN/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+/media/omar/Mero/PAO/PAO_POWEROFTHREE_CAN/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
